@@ -228,5 +228,4 @@ Sent after **send()** is called on a **Message** instance. Arguments sent with t
 - **sender**: The **Message** class.
 - **instance**: The actual **Message** instance being send.
 
-## Acknowledgement
-This project is heavily based upon the **django.core.mail** module, with the modified work by [Roald Nefs](https://github.com/roaldnefs). The [Django license](https://raw.githubusercontent.com/roaldnefs/django-sms/main/LICENSE.django) is included with **django-sms**.
+
